@@ -7,6 +7,7 @@ ENV APP_DIR=/opt/node-demo
 # Create a directory to run the app from
 RUN mkdir -p ${APP_DIR}
 
+# Change ownership to a user
 RUN chown node:node ${APP_DIR}
 
 # Run all following commands from the app dir
