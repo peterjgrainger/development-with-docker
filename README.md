@@ -1,4 +1,4 @@
-# Lunch and Learn - Docker
+# Development with Docker - Can't contain myself
 
 Code that goes along with the Docker compose talk
 
